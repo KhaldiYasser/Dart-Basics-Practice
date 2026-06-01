@@ -113,4 +113,4 @@ dart run lib/palindrome.dart
 ## 🛠️ Requirements
 
 - Dart SDK ≥ 2.12
-- Local package: `practise_dart`
+- Local package: `practice_dart`
