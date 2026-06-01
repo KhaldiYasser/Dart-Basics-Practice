@@ -1,10 +1,10 @@
-# 📘 Dart Basics Practice
+#  Dart Basics Practice
 
 A collection of beginner Dart programs covering core programming fundamentals: math algorithms, string manipulation, list operations, and search/sort techniques.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 | File | Topic | Core Function |
 |------|-------|---------------|
@@ -22,7 +22,7 @@ A collection of beginner Dart programs covering core programming fundamentals: m
 
 ---
 
-## 🔍 Exercise Descriptions
+##  Exercise Descriptions
 
 ### 1. Factorial Number — `factorial_number.dart`
 Computes the factorial of a user-entered integer.
@@ -95,7 +95,7 @@ Shared utility library used across multiple exercises.
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 Each file has its own `main()` entry point. Run individually from the project root:
 
@@ -110,7 +110,7 @@ dart run lib/palindrome.dart
 
 ---
 
-## 🛠️ Requirements
+##  Requirements
 
 - Dart SDK ≥ 2.12
 - Local package: `practice_dart`
