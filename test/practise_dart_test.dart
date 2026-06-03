@@ -1,4 +1,4 @@
-import 'package:practise_dart/practise_dart.dart';
+import 'package:dart_basics_practice/dart_basics_practice.dart';
 import 'package:test/test.dart';
 
 void main() {

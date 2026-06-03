@@ -1,5 +1,5 @@
 import 'dart:io';
-import 'package:practise_dart/practise_dart.dart';
+
 
 bool isPrime(int number) {
   int divisor = number - 1;
